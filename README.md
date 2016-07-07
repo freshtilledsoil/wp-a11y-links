@@ -4,6 +4,8 @@ Search a content block (string or object) with PHP to look for any links that op
 
 **Research about why this is important**: [WebAIM Link Text](http://webaim.org/techniques/hypertext/hypertext_links)
 
-**3rd Party Libraries**: [Simple HTML Dom](http://simplehtmldom.sourceforge.net/)
+**3rd Party Libraries**: [Simple HTML DOM](http://simplehtmldom.sourceforge.net/)
 
 All this plugin does is search through an HTML block for links with target="_blank" an appends an SVG icon with alt text reading, "This link opens in a new window".
+
+[I made the WordPress Plugin](https://github.com/freshtilledsoil/wp-a11y-links).
